@@ -1,0 +1,14 @@
+{
+  "type": "mincraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "effigypress:effigy_press"
+        }
+      ]
+    }
+  ]
+}

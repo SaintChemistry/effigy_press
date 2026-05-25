@@ -1,0 +1,12 @@
+{
+  "itemGroup.effigypress": "Effigy Press",
+  "block.effigypress.effigy_press": "Effigy Press",
+
+  "effigypress.configuration.title": "Effigy Press Configs",
+  "effigypress.configuration.section.effigypress.common.toml": "Effigy Press Configs",
+  "effigypress.configuration.section.effigypress.common.toml.title": "Effigy Press Configs",
+  "effigypress.configuration.items": "Item List",
+  "effigypress.configuration.logDirtBlock": "Log Dirt Block",
+  "effigypress.configuration.magicNumberIntroduction": "Magic Number Text",
+  "effigypress.configuration.magicNumber": "Magic Number"
+}
