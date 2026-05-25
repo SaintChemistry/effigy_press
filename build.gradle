@@ -174,3 +174,8 @@ idea {
         downloadJavadoc = true
     }
 }
+
+jar {
+    archiveBaseName = "${mod_id}-${minecraft_version}"
+    archiveVersion = "v${mod_version}"
+}
