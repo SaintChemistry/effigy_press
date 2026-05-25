@@ -10,6 +10,10 @@ Minecraft 1.21.1
 
 NeoForge 21.1.228
 
+## Credits
+
+This mod was wholly inspired by the 'Peaceful Table' addition to the Extra Utilities modpack released for Minecraft 1.12.2; by RWTema. No infringement is explicitly implied or constructed in any way, shape or manner. 
+
 ## Features
 
 - Add the Effigy Press block
