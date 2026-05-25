@@ -8,7 +8,7 @@ Minecraft 1.21.1
 
 ## Mod Loader
 
-NeoForge
+NeoForge 21.1.228
 
 ## Features
 
