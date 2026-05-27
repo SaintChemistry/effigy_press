@@ -1,5 +1,3 @@
-src/main/resources/logo.png
-
 <p align="center">
     <img src="src/main/resources/logo_small.png">
 </p>
