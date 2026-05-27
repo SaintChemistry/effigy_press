@@ -1,3 +1,16 @@
+src/main/resources/logo.png
+
+<p align="center">
+    <img src="src/main/resources/logo_small.png">
+</p>
+
+<h1 align="center">Effigy Press</h1>
+
+<p align="center">
+A lightweight NeoForge utility mod for Minecraft 1.21.1
+</p>
+
+
 # Effigy Press
 
 A lightweight NeoForge mod that adds a simple early-game utility block for processing amethyst shards into useful resources in peaceful mode. The block will not work if the difficulty is set to other than Peaceful; and will resume action when Peaceful is re-set. 
